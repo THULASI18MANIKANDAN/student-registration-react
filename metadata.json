@@ -1,0 +1,5 @@
+{
+  "name": "Student Portal Login",
+  "description": "A modern and visually appealing login and registration web application for a student portal, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
